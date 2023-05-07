@@ -1,5 +1,5 @@
 User1
 user1
 User1b
-
 Merged Conflict
+Merged Another Conflict
